@@ -1,3 +1,3 @@
-# ai_learning
+# deeplearning_learning
 
-## a note about AI
+## a note about deeplearning
